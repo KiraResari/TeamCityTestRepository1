@@ -1,0 +1,11 @@
+D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe.config
+D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe
+D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.pdb
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.csproj.CoreCompileInputs.cache
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.exe
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.pdb
+D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe.manifest
+D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.application
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.csprojResolveAssemblyReference.cache
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.exe.manifest
+D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.application
