@@ -10,14 +10,21 @@ namespace Netfira_Test_Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a Netfira Test Program");
+            Console.WriteLine("Hi, I'm Raliou.");
             Console.WriteLine();
-            Console.WriteLine("Auto Build Trigger is working correctly");
+            Console.WriteLine("I'm  a virtual puky and am going to walk you through this program.");
             Console.WriteLine();
-            Console.WriteLine("Thank you very much for using this program");
+            Console.WriteLine("This is just a simple Netfira Test Program.");
             Console.WriteLine();
-            Console.WriteLine("Please press any key to close it");
-            Console.WriteLine("I hope to see you again");
+            Console.WriteLine("It is meant to check if the Auto Build Trigger in TeamCity is working correctly.");
+            Console.WriteLine();
+            Console.WriteLine("So actually, it doesn't really do very much other than print lines in a console.");
+            Console.WriteLine();
+            Console.WriteLine("Anyway, if you can read this, it means that the Auto Build is working correctly. So, yay, or something.");
+            Console.WriteLine();
+            Console.WriteLine("Well, that's pretty much it. Thank you very much for using this program.");
+            Console.WriteLine();
+            Console.WriteLine("Please press any key to close it. I'm looking forward to seeing you again.");
 
             Console.ReadKey();
         }

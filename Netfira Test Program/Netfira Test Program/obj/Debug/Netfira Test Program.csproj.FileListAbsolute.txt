@@ -9,3 +9,14 @@ D:\projects\C#\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test 
 D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.csprojResolveAssemblyReference.cache
 D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.exe.manifest
 D:\projects\C#\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.application
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe.config
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe.manifest
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.application
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.exe
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\bin\Debug\Netfira Test Program.pdb
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.csprojResolveAssemblyReference.cache
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.csproj.CoreCompileInputs.cache
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.exe.manifest
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.application
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.exe
+D:\projects\TeamCityTestRepository1\Netfira Test Program\Netfira Test Program\obj\Debug\Netfira Test Program.pdb
